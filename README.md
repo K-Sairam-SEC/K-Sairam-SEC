@@ -5,7 +5,7 @@
 **Backend Developer** • **2nd-Year AIML Student @ SEC**  
 Building scalable APIs, data-driven services, and intelligent backend pipelines.
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES2024+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2024%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -64,8 +64,8 @@ I am a second-year **AI & Machine Learning (AIML)** undergraduate at **SEC** wit
 
 <div align="center">
 
-![Phe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Phe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Sairam-SEC&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Sairam-SEC&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
