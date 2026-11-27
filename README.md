@@ -69,12 +69,11 @@ I am a second-year **AI & Machine Learning (AIML)** undergraduate at **SEC** wit
 
 </div>
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle so the dynamic stat cards render your live profile data.
 
 ---
 
 ## Connect With Me
 
-- **GitHub:** `https://github.com/YOUR_GITHUB_USERNAME`
+- **GitHub:** `https://github.com/K-Sairam-SEC`
 - **LinkedIn / Email:** Add your profile link or contact email here
 - **Institution:** SEC — 2nd Year, AIML
