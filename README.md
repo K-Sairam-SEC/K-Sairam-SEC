@@ -75,5 +75,5 @@ I am a second-year **AI & Machine Learning (AIML)** undergraduate at **SEC** wit
 ## Connect With Me
 
 - **GitHub:** `https://github.com/K-Sairam-SEC`
-- **LinkedIn / Email:** Add your profile link or contact email here
-- **Institution:** SEC — 2nd Year, AIML
+- **LinkedIn / Email:** phexljs@gmail.com
+- **Institution:** Savetha Engineering College Autonomous — 2nd Year, AIML
